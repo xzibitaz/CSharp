@@ -96,7 +96,7 @@ namespace Savings
 
         private void label14_MouseEnter(object sender, EventArgs e)
         {
-            label14.ForeColor = Color.White;
+            label14.ForeColor = Color.LightGreen;
             label14.Cursor = Cursors.Hand;
         }
 
