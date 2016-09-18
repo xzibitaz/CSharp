@@ -1,0 +1,9 @@
+c:\users\xzibit-pc\documents\visual studio 2015\Projects\Savings\Savings\bin\Debug\Savings.exe.config
+C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\bin\Debug\Savings.exe
+C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\bin\Debug\Savings.pdb
+C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.csprojResolveAssemblyReference.cache
+C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.Form1.resources
+C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.Properties.Resources.resources
+C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.csproj.GenerateResource.Cache
+C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.exe
+C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.pdb
