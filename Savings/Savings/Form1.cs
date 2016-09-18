@@ -109,7 +109,7 @@ namespace Savings
 
         private void label14_MouseLeave(object sender, EventArgs e)
         {
-            label14.ForeColor = Color.LightGreen;
+            label14.ForeColor = Color.White;
             label14.Cursor = Cursors.Default;
         }
 
