@@ -32,6 +32,7 @@ namespace Savings
         {
             double mult = 0;
             var monthlyIncome = double.Parse(textBox1.Text);
+
             if (monthlyIncome <= 400)
             {
                 mult = 0.5;
@@ -167,6 +168,11 @@ namespace Savings
             }
             
             label15.ForeColor = Color.DarkSeaGreen;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }

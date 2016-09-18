@@ -7,3 +7,12 @@ C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Deb
 C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.csproj.GenerateResource.Cache
 C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.exe
 C:\Users\Xzibit-PC\Documents\Visual Studio 2015\Projects\Savings\Savings\obj\Debug\Savings.pdb
+D:\Projects\CSharp\Savings\Savings\bin\Debug\Savings.exe.config
+D:\Projects\CSharp\Savings\Savings\obj\Debug\Savings.exe
+D:\Projects\CSharp\Savings\Savings\obj\Debug\Savings.pdb
+D:\Projects\CSharp\Savings\Savings\bin\Debug\Savings.exe
+D:\Projects\CSharp\Savings\Savings\bin\Debug\Savings.pdb
+D:\Projects\CSharp\Savings\Savings\obj\Debug\Savings.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\Savings\Savings\obj\Debug\Savings.Form1.resources
+D:\Projects\CSharp\Savings\Savings\obj\Debug\Savings.Properties.Resources.resources
+D:\Projects\CSharp\Savings\Savings\obj\Debug\Savings.csproj.GenerateResource.Cache
